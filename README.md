@@ -1,4 +1,4 @@
 # Beastie Pi
-Tips and tricks for running FreeBSD on Raspberry Pi hardware in a wiki.
+Tips and tricks for running FreeBSD on Raspberry Pi hardware.
 
-https://github.com/DavesCodeMusings/BeastiePi/wiki
+See also: https://github.com/DavesCodeMusings/BeastiePi/wiki
