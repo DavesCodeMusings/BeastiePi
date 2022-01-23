@@ -2,7 +2,7 @@
 
 # Generate commands to configure system time.
 
-if [ "$(id -u)" == "0" ]; then
+if [ "$(id -u)" != "0" ]; then
   echo "You have to be root to do this and you, my friend, are not root."
 else
   sysrc ntpd_enable="YES"
